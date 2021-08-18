@@ -1,8 +1,0 @@
-echo off
-title Weather
-cls
-echo Sunday
-echo Mostly sunny
-echo 29°C
-pause
-exit
